@@ -1,15 +1,1 @@
-
-    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
-    <title xmlns="http://www.w3.org/2000/svg">graph icon white</title>
-    <desc xmlns="http://www.w3.org/2000/svg">Created with Sketch.</desc>
-    <defs xmlns="http://www.w3.org/2000/svg"/>
-    <g xmlns="http://www.w3.org/2000/svg" id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns" sketch:type="MSPage">
-        <g id="graph-icon-white" sketch:type="MSLayerGroup" stroke="#FFFFFF" stroke-width="2">
-            <g id="arrow" transform="translate(0.562500, 0.000000)" sketch:type="MSShapeGroup">
-                <path d="M0.457763672,0.0728759766 L0.457763672,17.0299072 L22.4115601,17.0299072" id="Path-285"/>
-                <path d="M15.4375,2.00317383 L21.4161377,2.00317383" id="Line"/>
-                <path d="M21.4445801,1 L21.4445801,8" id="Line-Copy-2"/>
-                <path d="M20.8701172,2.34606934 L13.9797363,10.0007935 L9.44848633,6.99926758 L0.993774414,15.9915771" id="Line" stroke-linecap="round" stroke-linejoin="round"/>
-            </g>
-        </g>
-    </g>
+PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjI0cHgiIGhlaWdodD0iMTlweCIgdmlld0JveD0iMCAwIDI0IDE5IiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbG5zOnNrZXRjaD0iaHR0cDovL3d3dy5ib2hlbWlhbmNvZGluZy5jb20vc2tldGNoL25zIj4KICAgIDwhLS0gR2VuZXJhdG9yOiBTa2V0Y2ggMy40LjQgKDE3MjQ5KSAtIGh0dHA6Ly93d3cuYm9oZW1pYW5jb2RpbmcuY29tL3NrZXRjaCAtLT4KICAgIDx0aXRsZT5ncmFwaCBpY29uIHdoaXRlPC90aXRsZT4KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBTa2V0Y2guPC9kZXNjPgogICAgPGRlZnM+PC9kZWZzPgogICAgPGcgaWQ9IlBhZ2UtMSIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCIgc2tldGNoOnR5cGU9Ik1TUGFnZSI+CiAgICAgICAgPGcgaWQ9ImdyYXBoLWljb24td2hpdGUiIHNrZXRjaDp0eXBlPSJNU0xheWVyR3JvdXAiIHN0cm9rZT0iI0ZGRkZGRiIgc3Ryb2tlLXdpZHRoPSIyIj4KICAgICAgICAgICAgPGcgaWQ9ImFycm93IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjU2MjUwMCwgMC4wMDAwMDApIiBza2V0Y2g6dHlwZT0iTVNTaGFwZUdyb3VwIj4KICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wLjQ1Nzc2MzY3MiwwLjA3Mjg3NTk3NjYgTDAuNDU3NzYzNjcyLDE3LjAyOTkwNzIgTDIyLjQxMTU2MDEsMTcuMDI5OTA3MiIgaWQ9IlBhdGgtMjg1Ij48L3BhdGg+CiAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMTUuNDM3NSwyLjAwMzE3MzgzIEwyMS40MTYxMzc3LDIuMDAzMTczODMiIGlkPSJMaW5lIj48L3BhdGg+CiAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMjEuNDQ0NTgwMSwxIEwyMS40NDQ1ODAxLDgiIGlkPSJMaW5lLUNvcHktMiI+PC9wYXRoPgogICAgICAgICAgICAgICAgPHBhdGggZD0iTTIwLjg3MDExNzIsMi4zNDYwNjkzNCBMMTMuOTc5NzM2MywxMC4wMDA3OTM1IEw5LjQ0ODQ4NjMzLDYuOTk5MjY3NTggTDAuOTkzNzc0NDE0LDE1Ljk5MTU3NzEiIGlkPSJMaW5lIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjwvcGF0aD4KICAgICAgICAgICAgPC9nPgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+
