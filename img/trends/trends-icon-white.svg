@@ -1,0 +1,15 @@
+
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title xmlns="http://www.w3.org/2000/svg">graph icon white</title>
+    <desc xmlns="http://www.w3.org/2000/svg">Created with Sketch.</desc>
+    <defs xmlns="http://www.w3.org/2000/svg"/>
+    <g xmlns="http://www.w3.org/2000/svg" id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns" sketch:type="MSPage">
+        <g id="graph-icon-white" sketch:type="MSLayerGroup" stroke="#FFFFFF" stroke-width="2">
+            <g id="arrow" transform="translate(0.562500, 0.000000)" sketch:type="MSShapeGroup">
+                <path d="M0.457763672,0.0728759766 L0.457763672,17.0299072 L22.4115601,17.0299072" id="Path-285"/>
+                <path d="M15.4375,2.00317383 L21.4161377,2.00317383" id="Line"/>
+                <path d="M21.4445801,1 L21.4445801,8" id="Line-Copy-2"/>
+                <path d="M20.8701172,2.34606934 L13.9797363,10.0007935 L9.44848633,6.99926758 L0.993774414,15.9915771" id="Line" stroke-linecap="round" stroke-linejoin="round"/>
+            </g>
+        </g>
+    </g>
